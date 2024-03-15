@@ -9,8 +9,17 @@ This repository hosts a project that classifies images of dogs and cats using a 
 ### **Platform to Use:** Google Colab 
 - **Dataset:** The Kaggle Dogs vs. Cats dataset features an extensive array of dog and cat images, meticulously categorized into train, validation, and test subsets. These subsets serve as the cornerstone for training, validating, and evaluating the CNN model.
 - **Model:** Employing the VGG16 model architecture, a renowned deep convolutional neural network crafted by the Visual Geometry Group at the University of Oxford, our project harnesses 16 layers, encompassing both convolutional and fully connected layers.
+- ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/fcdbb34e-dbbe-438f-a6e3-d470d804b97a)
+
 - **Training:** Our CNN model undergoes rigorous training using the training and validation subsets. Through meticulous parameter optimization and early stopping mechanisms, we ensure that our model learns to minimize classification loss over multiple epochs, while steering clear of the treacherous waters of overfitting.
+- ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/7b8215b1-27ee-41a2-bc8d-4d81d5f70149)
+
 - **Evaluation:** To gauge the prowess of our trained CNN model, we subject it to the ultimate litmus test—the test subset of the dataset. Armed with metrics such as accuracy, we meticulously assess its ability to discern between images of dogs and cats.
+- ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/0c150a4c-f6eb-4b7e-8e32-b27305eee58e)
+
+- ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/6a69bb7e-bc93-450e-815a-44d14da3471c)
+
+
 
 ### Repository Contents:
 - **Jupyter Notebook:** Our primary notebook contains Python code for data preprocessing, model architecture definition, training, and evaluation. Extensive explanations and comments are provided to ensure a seamless journey through the code implementation.
@@ -31,4 +40,6 @@ To seamlessly integrate the Kaggle API into your Google Colab environment and do
 ### Model Performance:
 - **Training Accuracy:** 98.60%
 - **Validation Accuracy:** 93.84%
+- ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/7cf4eef3-0012-4351-9233-c0ef74edfa4b)
+
 
