@@ -41,5 +41,12 @@ To seamlessly integrate the Kaggle API into your Google Colab environment and do
 - **Training Accuracy:** 98.60%
 - **Validation Accuracy:** 93.84%
 - ![image](https://github.com/Nikhildsaroj/CNN-Dog-vs.-Cat-Image-Classifier/assets/148480961/7cf4eef3-0012-4351-9233-c0ef74edfa4b)
+- FastAPI output:
+- ![image](https://github.com/user-attachments/assets/71850eba-8442-4757-8dec-0df520600a33)
+
+- ![image](https://github.com/user-attachments/assets/be6a6809-798d-4af8-a5c6-c529f16e3038)
+- ![image](https://github.com/user-attachments/assets/2b2dbd70-ee3d-4fd0-9f06-5492512fa71f)
+
+
 
 
